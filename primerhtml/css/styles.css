@@ -1,0 +1,16 @@
+span#prueba-de-span {
+    color: blue;
+}
+
+section {
+    background: skyblue;
+    padding: 15px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: violet;
+}
