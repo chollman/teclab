@@ -19,8 +19,31 @@ img {
     margin-left: 360px; 
     width: 500px;
     height: 300px;
+    border: 1px solid black;
+    border-radius: 15px;
 }
 
 
 
-h2 { text-align: center;}
+h2 {
+     text-align: center;
+     color: white;
+     font-size: 50px;
+    }
+
+section { 
+    background-image: url(https://www.departamentosplazamayor.cl/wp-content/uploads/2018/08/fondos-pantalla-paisajes-hermosos-bonitos-naturales-escritorio-fotografias-hd-wallpaper-imagenes-fotos-3d-santiago-chile-noche-iglesia-1.jpg);
+}
+
+#encabezado {
+    color: white;
+    text-align: center;
+}
+
+
+#menu {
+    min-height: 50px;
+    text-align: center;
+}
+
+#menu a { margin: 30px;}
