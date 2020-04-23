@@ -14,3 +14,13 @@ a {
 a:hover {
     color: violet;
 }
+
+img { 
+    margin-left: 360px; 
+    width: 500px;
+    height: 300px;
+}
+
+
+
+h2 { text-align: center;}
