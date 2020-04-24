@@ -11,10 +11,6 @@ a {
     text-decoration: none;
 }
 
-a:hover {
-    color: violet;
-}
-
 img { 
     margin-left: 360px; 
     width: 500px;
@@ -40,10 +36,27 @@ section {
     text-align: center;
 }
 
+#menu ul li { display: inline-block;}
+
+
+#menu ul li a { 
+    color: white;
+   display: block;
+   padding: 20px 100px;
+   text-decoration: none; 
+   margin-right: 50px; 
+   font-size:20px ;
+   text-transform: uppercase;
+}
 
 #menu {
     min-height: 50px;
     text-align: center;
 }
 
-#menu a { margin: 30px;}
+
+#menu { background-color: black;}
+
+#menu a:hover {
+    background-color: violet;
+}
